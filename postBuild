@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Install JupyterLab
+conda install -y jupyterlab
+
+# Install ipywidgets (for interactive widgets in JupyterLab)
+conda install -y ipywidgets
+
+# Install JupyterLab widgets extension
+jupyter labextension install @jupyter-widgets/jupyterlab-manager

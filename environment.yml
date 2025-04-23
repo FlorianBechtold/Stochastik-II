@@ -11,3 +11,4 @@ dependencies:
   - ipywidgets=8.1.5
   - notebook
   - pandas
+  - voila>=0.2.11

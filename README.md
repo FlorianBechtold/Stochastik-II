@@ -8,3 +8,5 @@ Hausaufgabe 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder
 Neyman-Pearson, gängige Verteilungen, Konfidenzintervalle: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FlorianBechtold/Stochastik-II/HEAD?urlpath=%2Fdoc%2Ftree%2FNeyman-Pearson.ipynb)
 
 Markoff Kette: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FlorianBechtold/Stochastik-II/HEAD?urlpath=%2Fdoc%2Ftree%2FMarkov+chains.ipynb)
+
+Glücksspiel: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FlorianBechtold/Stochastik-II/HEAD?urlpath=%2Fdoc%2Ftree%2FGluecksspiel.ipynb)
